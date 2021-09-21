@@ -23,7 +23,7 @@ Before you use this provider, you need to configure the following:
 }
 ```
 
-About details, See the [`PhraseProviderConfiguration`](https://github.com/plaidev/karte-io-systems/tree/develop/tools/phrase-service-provider/types/index.d.ts).
+About details, See the [`PhraseProviderConfiguration`](https://github.com/plaidev/phrase-service-provider/blob/main/types/index.d.ts).
 
 ### Push the locale messages to Phrase
 
